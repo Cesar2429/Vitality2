@@ -6,7 +6,8 @@ import java.util.Objects;
 public class Recetas {
     private int id;
     private String[] recetario = {"Merluza en salsa roja de pimientos asados", "Salteado de Mariscos", "Budin de verduras", "Ensalada asiática de quinoa y gambas",
-            "Pechuga de pollo con soja, miel y limón", "Curry de garbanzos y verduras"};
+            "Pechuga de pollo con soja, miel y limón", "Curry de garbanzos y verduras", "Ensalada tailandesa de ternera"};
+
     private int[] precios = {24000, 25000, 10000, 15000, 18000, 20000};
     private int stock;
 
